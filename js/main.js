@@ -11,5 +11,3 @@ while(i < groceriesList.length){
     listaSpesaDom.innerHTML += listItem;
     i++
 }
-
-console.log(listaSpesaDom);
